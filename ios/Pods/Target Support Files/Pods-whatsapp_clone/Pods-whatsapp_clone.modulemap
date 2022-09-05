@@ -1,0 +1,6 @@
+module Pods_whatsapp_clone {
+  umbrella header "Pods-whatsapp_clone-umbrella.h"
+
+  export *
+  module * { export * }
+}
